@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AddOnRegData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SlientInstallation="No" SlientUpgrade="No" Partnernmsp="AXXIS" SchemaVersion="3.0" Type="" MultipleVersion="false" OnDemand="" OnPremise="" ExtName="BIN Location Auto Select Add-on" ExtVersion="2.00" Contdata="AXXIS Consulting (S) Pte Ltd" Partner="AXXIS Consulting (S) Pte Ltd" DBType="Both" ClientType="A">
+  <Validity>
+    <SBOCompatibility>
+      <Version From="10.0" To="10.3" />
+    </SBOCompatibility>
+  </Validity>
+  <Configuration>
+    <Repository>
+      <Properties />
+    </Repository>
+    <Deployment>
+      <Properties />
+    </Deployment>
+    <Assignment>
+      <Properties />
+    </Assignment>
+  </Configuration>
+  <Addons>
+    <Addon Name="" Group="" ForceFlag="" Visible="" AutoAssign="" SelfUpgrd="">
+      <x86 AddonExe="D:\Axxis\Addons\AXC_NASB_BIN Location Auto Select Add-on\bin\x86\BIN Location Auto Select Add-on.exe" AddonSig="">
+        <Installation>
+          <Files>
+            <File FileName="BIN Location Auto Select Add-on.b1s">
+              <Actions />
+            </File>
+            <File FileName="BIN Location Auto Select Add-on.exe">
+              <Actions />
+            </File>
+            <File FileName="BIN Location Auto Select Add-on.exe.config">
+              <Actions />
+            </File>
+            <File FileName="BIN Location Auto Select Add-on.pdb">
+              <Actions />
+            </File>
+            <File FileName="BIN Location Auto Select Add-on.vshost.exe.config">
+              <Actions />
+            </File>
+            <File FileName="BIN Location Auto Select Add-on.vshost.exe.manifest">
+              <Actions />
+            </File>
+            <File FileName="EPPlus.dll">
+              <Actions />
+            </File>
+            <File FileName="icon.png">
+              <Actions />
+            </File>
+            <File FileName="SAP Helper.dll">
+              <Actions />
+            </File>
+            <File FileName="SAP Helper.pdb">
+              <Actions />
+            </File>
+            <File FileName="SAPDOTNET.dll">
+              <Actions />
+            </File>
+            <File FileName="vbHelper_Library.dll">
+              <Actions />
+            </File>
+          </Files>
+        </Installation>
+        <Uninstallation>
+          <Files>
+            <File FileName="BIN Location Auto Select Add-on.b1s">
+              <Actions />
+            </File>
+            <File FileName="BIN Location Auto Select Add-on.exe">
+              <Actions />
+            </File>
+            <File FileName="BIN Location Auto Select Add-on.exe.config">
+              <Actions />
+            </File>
+            <File FileName="BIN Location Auto Select Add-on.pdb">
+              <Actions />
+            </File>
+            <File FileName="BIN Location Auto Select Add-on.vshost.exe.config">
+              <Actions />
+            </File>
+            <File FileName="BIN Location Auto Select Add-on.vshost.exe.manifest">
+              <Actions />
+            </File>
+            <File FileName="EPPlus.dll">
+              <Actions />
+            </File>
+            <File FileName="icon.png">
+              <Actions />
+            </File>
+            <File FileName="SAP Helper.dll">
+              <Actions />
+            </File>
+            <File FileName="SAP Helper.pdb">
+              <Actions />
+            </File>
+            <File FileName="SAPDOTNET.dll">
+              <Actions />
+            </File>
+            <File FileName="vbHelper_Library.dll">
+              <Actions />
+            </File>
+          </Files>
+        </Uninstallation>
+      </x86>
+      <x64 AddonExe="D:\Axxis\Addons\AXC_NASB_BIN Location Auto Select Add-on\bin\x64\BIN Location Auto Select Add-on.exe" AddonSig="">
+        <Installation>
+          <Files>
+            <File FileName="BIN Location Auto Select Add-on.b1s">
+              <Actions />
+            </File>
+            <File FileName="BIN Location Auto Select Add-on.exe">
+              <Actions />
+            </File>
+            <File FileName="BIN Location Auto Select Add-on.exe.config">
+              <Actions />
+            </File>
+            <File FileName="BIN Location Auto Select Add-on.pdb">
+              <Actions />
+            </File>
+            <File FileName="BIN Location Auto Select Add-on.vshost.exe">
+              <Actions />
+            </File>
+            <File FileName="BIN Location Auto Select Add-on.vshost.exe.config">
+              <Actions />
+            </File>
+            <File FileName="BIN Location Auto Select Add-on.vshost.exe.manifest">
+              <Actions />
+            </File>
+            <File FileName="EPPlus.dll">
+              <Actions />
+            </File>
+            <File FileName="icon.png">
+              <Actions />
+            </File>
+            <File FileName="SAP Helper.dll">
+              <Actions />
+            </File>
+            <File FileName="SAP Helper.pdb">
+              <Actions />
+            </File>
+            <File FileName="SAPDOTNET.dll">
+              <Actions />
+            </File>
+            <File FileName="vbHelper_Library.dll">
+              <Actions />
+            </File>
+          </Files>
+        </Installation>
+        <Uninstallation>
+          <Files>
+            <File FileName="BIN Location Auto Select Add-on.b1s">
+              <Actions />
+            </File>
+            <File FileName="BIN Location Auto Select Add-on.exe">
+              <Actions />
+            </File>
+            <File FileName="BIN Location Auto Select Add-on.exe.config">
+              <Actions />
+            </File>
+            <File FileName="BIN Location Auto Select Add-on.pdb">
+              <Actions />
+            </File>
+            <File FileName="BIN Location Auto Select Add-on.vshost.exe">
+              <Actions />
+            </File>
+            <File FileName="BIN Location Auto Select Add-on.vshost.exe.config">
+              <Actions />
+            </File>
+            <File FileName="BIN Location Auto Select Add-on.vshost.exe.manifest">
+              <Actions />
+            </File>
+            <File FileName="EPPlus.dll">
+              <Actions />
+            </File>
+            <File FileName="icon.png">
+              <Actions />
+            </File>
+            <File FileName="SAP Helper.dll">
+              <Actions />
+            </File>
+            <File FileName="SAP Helper.pdb">
+              <Actions />
+            </File>
+            <File FileName="SAPDOTNET.dll">
+              <Actions />
+            </File>
+            <File FileName="vbHelper_Library.dll">
+              <Actions />
+            </File>
+          </Files>
+        </Uninstallation>
+      </x64>
+    </Addon>
+  </Addons>
+  <XApps>
+    <XApp Name="" Path="" FileName="" />
+  </XApps>
+  <UDQs>
+    <UDQ udqname="">
+      <Hana FileName="" />
+    </UDQ>
+  </UDQs>
+</AddOnRegData>
